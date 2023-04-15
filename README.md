@@ -4,12 +4,12 @@ Este é um gerador de senhas desenvolvido em JavaScript, HTML, CSS e Bootstrap. 
 
 ## Funcionalidades:
 
-##### º Geração de senhas aleatórias com diferentes comprimentos.
-##### º Seleção de tipos de caracteres para incluir na senha, como letras maiúsculas, minúsculas, números e símbolos.
-##### º Botão de cópia para copiar a senha gerada para a área de transferência.
-##### º Mensagem de erro quando o usuário não seleciona nenhum tipo de caracter.
-##### º Limite de comprimento da senha para até 20 caracteres.
-##### º Salvar senha em arquivo .txt, apertando apenas um botão.
+##### - Geração de senhas aleatórias com diferentes comprimentos.
+##### - Seleção de tipos de caracteres para incluir na senha, como letras maiúsculas, minúsculas, números e símbolos.
+##### - Botão de cópia para copiar a senha gerada para a área de transferência.
+##### - Mensagem de erro quando o usuário não seleciona nenhum tipo de caracter.
+##### - Limite de comprimento da senha para até 20 caracteres.
+##### - Salvar senha em arquivo .txt, apertando apenas um botão.
 
 ![SecureKey](https://user-images.githubusercontent.com/79804184/232235550-5696d8d5-b102-49df-b470-72febfec1c57.PNG)
 <hr>
